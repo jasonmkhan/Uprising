@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Marker_001
+  - Marker_002
+  - Marker_003
+  - Marker_004
   layers:
   - Default
   - TransparentFX

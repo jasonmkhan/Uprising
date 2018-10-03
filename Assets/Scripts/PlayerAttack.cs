@@ -6,7 +6,7 @@ public class PlayerAttack : MonoBehaviour
 {
 
 	public static bool attacking = false;
-	private static float attackTimer = 0;
+	private static float attackTimer = 0.2f;
 	//adjust anim length here
 	private float attackAnimCd =  .3f;
 	private float hAnimCd = .6f;
